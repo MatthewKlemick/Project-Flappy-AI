@@ -1,0 +1,47 @@
+{
+    "flappylearner": {
+        "checkpoints": [
+            {
+                "steps": 499499,
+                "file_path": "results\\FlappyBirdTraning\\flappylearner\\flappylearner-499499.onnx",
+                "reward": null,
+                "creation_time": 1630560165.7734776,
+                "auxillary_file_paths": [
+                    "results\\FlappyBirdTraning\\flappylearner\\flappylearner-499499.pt"
+                ]
+            },
+            {
+                "steps": 999079,
+                "file_path": "results\\FlappyBirdTraning\\flappylearner\\flappylearner-999079.onnx",
+                "reward": null,
+                "creation_time": 1630561064.4276156,
+                "auxillary_file_paths": [
+                    "results\\FlappyBirdTraning\\flappylearner\\flappylearner-999079.pt"
+                ]
+            },
+            {
+                "steps": 1000079,
+                "file_path": "results\\FlappyBirdTraning\\flappylearner\\flappylearner-1000079.onnx",
+                "reward": null,
+                "creation_time": 1630561064.5532515,
+                "auxillary_file_paths": [
+                    "results\\FlappyBirdTraning\\flappylearner\\flappylearner-1000079.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000079,
+            "file_path": "results\\FlappyBirdTraning\\flappylearner.onnx",
+            "reward": null,
+            "creation_time": 1630561064.5532515,
+            "auxillary_file_paths": [
+                "results\\FlappyBirdTraning\\flappylearner\\flappylearner-1000079.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.9.0+cu111"
+    }
+}
